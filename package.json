@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "koa": "^2.13.0",
+    "pm2": "^4.4.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
