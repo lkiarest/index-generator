@@ -23,6 +23,7 @@ pm2 start server.js # 使用 pm2 管理服务
 
 ```
 yarn build # 会生成 app.js 文件，上传此文件到服务器
+node app.js # 各种启动方式同上
 ```
 
 ### 创建/更新索引
